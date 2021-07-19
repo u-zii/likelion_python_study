@@ -35,7 +35,7 @@ elif kind=="4":
     result=a/b
     print("나눗셈 결과 : " + str(result) + "\n")
     print("별찍기")
-    for i in range(1, int(result)+1):
+    for i in range(1, result+1):
         print("*"*i)
 
 elif kind=="5":
