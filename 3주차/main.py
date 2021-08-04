@@ -1,0 +1,3 @@
+from checkModule import *
+
+adultCheck()
